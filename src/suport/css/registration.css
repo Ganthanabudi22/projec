@@ -1,0 +1,25 @@
+.register1{
+    margin-top: -20px;
+}
+.register{
+    /* background-color: rgb(138, 138, 243); */
+    margin-top: -16px;
+    height: 554px;
+    width: 350px ;
+    border-radius: 5px;
+
+}
+/* .container .border{
+    background-image: url('./../images/bg-01.jpg');
+} */
+.container .col-form-label {
+    color: white;
+}
+.container p{
+    color: rgb(0, 0, 0);
+    /* background-color: white; */
+    border-radius: 5px;
+}
+.border{
+    margin-top: 100px;
+}

@@ -1,0 +1,20 @@
+.login1{
+    height: 500%;
+    margin-top: -100px;
+    
+}
+.login1 .login {
+    margin-top: 70px;
+    border-radius: 30px;
+    background-color: blanchedalmond;
+}
+.gambar{
+    margin-top: 80px;
+    width: 500px;
+    height: 535px;
+}
+.Glogin{
+    margin-top:10px ;
+    width: 400px;
+    height: 250px;
+}
